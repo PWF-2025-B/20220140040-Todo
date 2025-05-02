@@ -1,0 +1,8 @@
+![1. Todo Completed](<screenshot/tugas6/Screenshot 2025-05-02 191349.png>)
+![2. Todo Uncompleted](<screenshot/tugas6/Screenshot 2025-05-02 190619.png>)
+![3. Todo Edited](<screenshot/tugas6/Screenshot 2025-05-02 190642.png>)
+![4. Todo Deleted](<screenshot/tugas6/Screenshot 2025-05-02 190701.png>)
+![5. Todo Deleted All Completed Todo](<screenshot/tugas6/Screenshot 2025-05-02 190724.png>)
+![6. User Make Admin](<screenshot/tugas6/Screenshot 2025-05-02 190826.png>)
+![7. User Remove Admin](<screenshot/tugas6/Screenshot 2025-05-02 190851.png>)
+![8. User Deleted](<screenshot/tugas6/Screenshot 2025-05-02 190851.png>)
